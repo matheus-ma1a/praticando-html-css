@@ -1,0 +1,14 @@
+.cart{
+    height: 75px;
+    background-color: #FFC529;
+    border-radius: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #fff;
+    position: absolute;
+    left: 13%;
+    bottom: 42%;
+    width: 570px;
+    text-decoration: none;
+}
